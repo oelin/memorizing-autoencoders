@@ -19,4 +19,4 @@ Memorizing autoencoders, on the other hand, intentionally overfit to a small num
 
 Some examples of images compressed by 92% and then decompressed using an MAE trained on a single 1024x1024 image.
 
-<img src='https://github.com/oelin/memorizing-autoencoders/blob/main/images/examples.png'>
+<img src='https://github.com/oelin/memorizing-autoencoders/blob/main/images/examples.jpg'>
