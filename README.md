@@ -17,18 +17,17 @@ Reconstructions from an MAE trained on one 1024x1024 image. Compression ratio: 0
 
 So far initial research has been done into MAEs showing that they're capable of significantly compressing diverse images after grossly overfitting to a single image. This observation poses a number of interesting questions.
 
-### Which architectures mimic MAEs?
+### Why Do MAEs work?
 
-The MAE phenomenon was first observed in convolutional autoencoders, however it's possible other architectures also support similar behaviour. Of particular interest are variational autoencoders and other explicitly generative architectures. 
+It's intuitively very surprising that models trained on a single image are able to learn a transformation for compressing images in general. We would like to understand why this phenomenon occurs.
 
 ### Which modalities do MAEs work on?
 
 Autoencoders are frequently used to compress images, however they can also be used with oher modalities. Does the MAE phenomenon translates over to these other contexts?
 
-### Why Do MAEs work?
+### Which architectures mimic MAEs?
 
-It's intuitively very surprising that models trained on a single image are able to learn a transformation for compressing images in general. We would like to understand why this phenomenon occurs.
-
+The MAE phenomenon was first observed in convolutional autoencoders, however it's possible other architectures also support similar behaviour. Of particular interest are variational autoencoders and other explicitly generative architectures. 
 
 ### What are the limitations of MAEs?
 
