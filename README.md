@@ -36,13 +36,3 @@ How does tightening the encoder bottleneck affect reconstruction performance on 
 <div align=center>
   <img src='https://cdn.discordapp.com/attachments/570928893289299998/1076955403507736596/raH7GsLIKgAAAABJRU5ErkJggg.png' width='40%'>
 </div>
-
-
-### Organization
-
-This project is organized into four key folders which we outline below.
-
-- `data` - contains datasets used for training and evaluating models.
-- `models` - contains weights for different models.
-- `notebooks` - contaiins Jupyter notebooks for experiments related to MAEs.
-- `src` - contains Python source code for model classes and other utilities.
