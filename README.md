@@ -4,7 +4,7 @@ Research on memorizing autoencoders.
 
 ## About
 
-Autoencoders are useful models for feature learning and data compression, however they typically produce poor reconstructions of out-of-distribution data (ODD). Memorizing autoencoders (MAEs) are a family of autoencoder models which excel in this regard despite intentionally overfitting to a small number of training examples. In this research, we aim to understand why and how MAEs achieve this form of extrapolation.
+Autoencoders are useful models for feature learning and data compression, however they typically produce poor reconstructions on out-of-distribution data. Memorizing autoencoders (MAEs) are a family of autoencoder models which excel in this task despite intentionally overfitting to a small number of training examples. In this project we aim to understand why MAEs exhibit this surprising behaviour.
 
 ## Examples
 
