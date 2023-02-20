@@ -8,6 +8,6 @@ Autoencoders are useful models for feature learning and data compression, howeve
 
 ## Examples
 
-Reconstructions from an MAE trained on one 1024x1024 image. The compression ratio was set to 95%.
+Reconstructions from an MAE trained on one 1024x1024 image. Compression ratio: 0.95.
 
 <img src='https://github.com/oelin/memorizing-autoencoders/blob/main/images/examples.jpeg'>
