@@ -32,7 +32,3 @@ The MAE phenomenon was first observed in convolutional autoencoders, however it'
 ### What are the limitations of MAEs?
 
 How does tightening the encoder bottleneck affect reconstruction performance on unseen images? What causes tiling artefacts?
-
-<div align=center>
-  <img src='https://cdn.discordapp.com/attachments/570928893289299998/1076955403507736596/raH7GsLIKgAAAABJRU5ErkJggg.png' width='40%'>
-</div>
