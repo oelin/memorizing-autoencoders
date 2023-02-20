@@ -1,2 +1,3 @@
-# xae
+# XAE
+
 Research on eXtrapolating autoencoders.
